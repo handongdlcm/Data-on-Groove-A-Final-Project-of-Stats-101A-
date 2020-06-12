@@ -1,0 +1,12 @@
+---
+title: "Final Project RMD"
+author: "Dong Han"
+date: "6/11/2020"
+output: html_document
+---
+
+```{r}
+top_100 <- read.csv("top2018.csv")
+```
+
+ 
